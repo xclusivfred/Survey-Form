@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Oaktech Gateway</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css" type="text/css">
+  </head>
+  <body>
+    <header class="topheader">
+    <h1 id="title">OAKTECH GATEWAY</h1>
+    <p id="description">Thanks for visiting our webpage!!!. You're absolutely welcome to take this survey.</p>
+    </header>
+    <div class="container">
+    <form action="/submit-survey" id="survey-form">
+      <fieldset>
+      <label id="name-label">Name <input type="text" id="name" name="name" placeholder="name" required></label>
+      <label id="email-label">Email <input type="email" id="email" name="email" placeholder="email" required></label>
+      <label id="number-label">Age <input type="number" id="number" name="age" min="13" max="120" placeholder="age" required></label>
+      <label>How did you hear about us?
+          <select id="dropdown" name="referrer">
+            <option value="">(select one)</option>
+            <option value="1">Tv News</option>
+            <option value="2">YouTube Channel</option>
+            <option value="3">Blogs</option>
+            <option value="4">Other</option>
+          </select>
+        </label>
+        <label class="space">Would you recommend Oaktech Gateway to a friend?</label>
+        <label><input type="radio" name="recommend" class="inline" id="yes" value="yes" /> Yes</label>
+        <label><input type="radio" name="recommend" class="inline" id="no" value="no" /> No</label>
+        <label><input type="radio" name="recommend" class="inline" id="probably" value="probably"/> Probably</label>
+        <label class="space">What is your favorite feature of Oaktech?
+          <select id="dropdown" name="referrer">
+            <option value="">(select one)</option>
+            <option value="opt1">Appearance</option>
+            <option value="opt2">online learning</option>
+            <option value="opt3">projects</option>
+            <option value="opt4">Other</option>
+          </select>
+        </label>
+        <label class="space">What improvements do you expect from us?</label>
+        <label>(Check all that apply)</label>
+        <label><input type="checkbox" name="update" value="blockchain" class="inline"> Blockchain</label>
+        <label><input type="checkbox" name="update" value="smartcontracts" class="inline"> Smartcontracts</label>
+      <label><input type="checkbox" name="update" value="nfts" class="inline"> Nfts</label>
+      <label><input type="checkbox" name="update" value="dapps" class="inline"> Dapps</label>
+      <label><input type="checkbox" name="update" value="metaverse" class="inline"> Metaverse</label>
+      <label><input type="checkbox" name="update" value="airdrops" class="inline"> Airdrops</label>
+      <label><input type="checkbox" name="update" value="tokens" class="inline"> Tokens</label>
+      <label><input type="checkbox" name="update" value="virtualreality" class="inline"> Virtual reality</label>
+      <label><input type="checkbox" name="update" value="solidity" class="inline"> solidity</label>
+      <label><input type="checkbox" name="update" value="polygon" class="inline"> polygon</label>
+      <label class="space">Any Comments or Suggestions?
+      <textarea name="bio" rows="3" cols="30" placeholder="I like your achievements..."></textarea></label>
+      <input type="submit" id="submit" value="submit" class="space">
+      </fieldset>
+      
+      
+    </form>
+    </div>
+
+  </body>
+</html>

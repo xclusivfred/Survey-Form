@@ -1,0 +1,62 @@
+body {
+  background: #2a542c;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.topheader {
+  text-align: center;
+  color: white;
+}
+h1 {
+  font-family: Impact, serif;
+}
+
+.container {
+  width: 80%;
+  background: #0a1a0f;
+  margin: auto;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  color: white;
+  max-width: 500px;
+}
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+input,
+select,
+textarea  {
+  width: 100%;
+  border: none;
+  min-height: 1.5em;
+}
+.inline {
+  width: unset;
+  vertical-align: middle;
+}
+
+select {
+  border-radius: 2px;
+  padding: 1px 2px;
+}
+input[type="text"],
+input[type="submit"],
+input[type="email"],
+input[type="number"],
+textarea {
+  border-radius: 2px;
+}
+.space {
+  margin-top: 20px;
+}
+fieldset {
+  border: none;
+}
+input[type="submit"] {
+  background: #93c2a4;
+  width: 60%;
+  display: block;
+  margin: auto;
+}
