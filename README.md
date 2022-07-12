@@ -1,3 +1,4 @@
 # Survey-Form
-A html form used to collect data from users.....
-Just testing my newly learnt skills in html and CSS style rule.
+- my freecodecamp certification project
+- Course: Responsive web design
+- to test my knowledge on HTML(Hypertext markup language)  and CSS(Cascading style sheets).
