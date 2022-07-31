@@ -6,7 +6,7 @@ A survey form to collect data from your users.
 
 # Objective:
 
-Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
+To build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 # Prerequisite
 
 • Laptop or desktop
