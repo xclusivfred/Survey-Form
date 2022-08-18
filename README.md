@@ -25,7 +25,7 @@ To build an app that is functionally similar to https://survey-form.freecodecamp
 ![App Screenshot](https://i.postimg.cc/zX4NPpYV/287201228-509039910958892-5444061813508234608-n.jpg)
 
 
-# Demo
+## Demo
 
 https://xclusivfred.github.io/Survey-Form/
 
