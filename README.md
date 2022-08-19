@@ -43,7 +43,7 @@ https://xclusivfred.github.io/Survey-Form/
 - Mobile Responsive
 
 
-# 🛠 Skills
+## 🛠 Skills
 HTML, CSS.
 
 
