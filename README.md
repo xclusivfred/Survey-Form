@@ -38,7 +38,7 @@ https://xclusivfred.github.io/Survey-Form/
 ## Acknowledgements
 
  - [Freecodecamp.org](https://freecodecamp.org/)
-# Features
+## Features
 
 - Mobile Responsive
 
