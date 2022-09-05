@@ -50,5 +50,5 @@ HTML, CSS.
 
 ## Support
 
-For support, email xclusivfred@gmail.com
+For support, email alfredkhay@gmail.com
 
