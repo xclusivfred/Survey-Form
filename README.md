@@ -3,10 +3,6 @@
 
 A survey form to collect data from your users.
 
-
-## Objective:
-
-To build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 ## Prerequisite
 
 • Laptop or desktop
@@ -47,7 +43,12 @@ https://xclusivfred.github.io/Survey-Form/
 HTML, CSS.
 
 
-## Lessons Learned
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-kalu-orie-3630a923b)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alfredkhay)
 
-learned the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+
+## Support
+
+For support, email xclusivfred@gmail.com
 
