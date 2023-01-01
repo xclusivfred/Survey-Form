@@ -43,5 +43,3 @@ https://xclusivfred.github.io/Survey-Form/
 HTML, CSS.
 
 
-## 🔗 Links
-
